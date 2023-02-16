@@ -20,3 +20,4 @@ Lista de Componentes:
 ⦁	Sensor de nivel de agua (Tipo Boya)
 ⦁	Motor DC ( Sumergible)	
 ⦁	Transformador 12v
+LINK DEL CODIGO: https://wokwi.com/projects/350965999590179410
